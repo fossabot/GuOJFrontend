@@ -1,4 +1,6 @@
 # guoj-frontend
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguoj-dev%2FGuOJFrontend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguoj-dev%2FGuOJFrontend?ref=badge_shield)
+
 
 ![](https://img.shields.io/github/issues/guoj-dev/GuOJFrontend)
 ![](https://img.shields.io/github/forks/guoj-dev/GuOJFrontend)
@@ -40,3 +42,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguoj-dev%2FGuOJFrontend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguoj-dev%2FGuOJFrontend?ref=badge_large)
